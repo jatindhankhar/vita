@@ -5,6 +5,7 @@
 Vita is a tool to gather subdomains from passive sources much like [tomnomnom's assetfinder](https://github.com/tomnomnom/assetfinder).
 
 # Test commit to understand comparison API
+# One more commit
 
 ### Installation
 Precompiled binaries for vita are available in the [releases](https://github.com/junnlikestea/vita/releases) tab. Just pick your platform and extract the archive that contains the binary.
